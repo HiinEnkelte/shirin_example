@@ -1,0 +1,21 @@
+words number = 8892
+<50> train perplexity: NaN
+Time : 4105<50> test perplexity: 6993.530433635367<100> train perplexity: NaN
+Time : 7834<100> test perplexity: 6992.8366138256315<150> train perplexity: NaN
+Time : 11584<150> test perplexity: 6992.917402745333<200> train perplexity: NaN
+Time : 15330<200> test perplexity: 6993.21960387784<250> train perplexity: NaN
+Time : 19025<250> test perplexity: 6993.700963026905<300> train perplexity: NaN
+Time : 22707<300> test perplexity: 6992.735217891905<350> train perplexity: NaN
+Time : 26411<350> test perplexity: 6997.815590246045<400> train perplexity: NaN
+Time : 30134<400> test perplexity: 6992.186985089047<450> train perplexity: NaN
+Time : 33849<450> test perplexity: 6993.995093806022<500> train perplexity: NaN
+Time : 37552<500> test perplexity: 6992.46294180112<550> train perplexity: NaN
+Time : 41248<550> test perplexity: 6994.7230826485065<600> train perplexity: NaN
+Time : 44961<600> test perplexity: 6992.4184337091<650> train perplexity: NaN
+Time : 48673<650> test perplexity: 6994.758429780263<700> train perplexity: NaN
+Time : 52366<700> test perplexity: 6996.648538276307<750> train perplexity: NaN
+Time : 56058<750> test perplexity: 6990.633135394249<800> train perplexity: NaN
+Time : 59754<800> test perplexity: 6994.598925462384<850> train perplexity: NaN
+Time : 63449<850> test perplexity: 6991.129647053724<900> train perplexity: NaN
+Time : 67149<900> test perplexity: 6990.9473750246025<950> train perplexity: NaN
+Time : 70847<950> test perplexity: 6990.017931637156
